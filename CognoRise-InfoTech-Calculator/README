@@ -1,0 +1,25 @@
+# Elegant Calculator
+
+A sleek and modern calculator built using HTML, CSS, and JavaScript. This project showcases a basic understanding of front-end web development concepts, including responsive design, DOM manipulation, and event handling.
+
+
+## Features
+
+- **Responsive Design**: The calculator is designed to look great on both desktop and mobile devices.
+- **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, division, and modulus.
+- **Interactive UI**: Buttons provide feedback with smooth animations on hover and click.
+- **Clear & Backspace Functions**: Allows users to clear the screen or delete the last entered digit.
+
+## Technologies Used
+
+- **HTML**: Provides the basic structure of the calculator.
+- **CSS**: Used for styling the calculator, including layout, colors, and animations.
+- **JavaScript**: Handles the logic for performing calculations, updating the display, and managing user interactions.
+
+## Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Adams99Abubakry/CognoRise-InfoTech-Calculator.git
